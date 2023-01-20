@@ -1,0 +1,15 @@
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 5B\Lab 5B\obj\Debug\Lab 5B.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 5B\Lab 5B\bin\Debug\Lab 5B.exe.config
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 5B\Lab 5B\bin\Debug\Lab 5B.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 5B\Lab 5B\bin\Debug\Lab 5B.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 5B\Lab 5B\obj\Debug\Lab 5B.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 5B\Lab 5B\obj\Debug\Lab 5B.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 5B\Lab 5B\obj\Debug\Lab 5B.csprojAssemblyReference.cache
+C:\Users\jlevi\OneDrive\Desktop\PG1\Lab 5B\Lab 5B\bin\Debug\Lab 5B.exe.config
+C:\Users\jlevi\OneDrive\Desktop\PG1\Lab 5B\Lab 5B\bin\Debug\Lab 5B.exe
+C:\Users\jlevi\OneDrive\Desktop\PG1\Lab 5B\Lab 5B\bin\Debug\Lab 5B.pdb
+C:\Users\jlevi\OneDrive\Desktop\PG1\Lab 5B\Lab 5B\obj\Debug\Lab 5B.csproj.AssemblyReference.cache
+C:\Users\jlevi\OneDrive\Desktop\PG1\Lab 5B\Lab 5B\obj\Debug\Lab 5B.csproj.SuggestedBindingRedirects.cache
+C:\Users\jlevi\OneDrive\Desktop\PG1\Lab 5B\Lab 5B\obj\Debug\Lab 5B.csproj.CoreCompileInputs.cache
+C:\Users\jlevi\OneDrive\Desktop\PG1\Lab 5B\Lab 5B\obj\Debug\Lab 5B.exe
+C:\Users\jlevi\OneDrive\Desktop\PG1\Lab 5B\Lab 5B\obj\Debug\Lab 5B.pdb

@@ -1,0 +1,12 @@
+C:\Users\jlevi\OneDrive\Desktop\pg2-2212-JJLeViness-main\Week1\Lab1\PG2Input\bin\Debug\net6.0\PG2Input.deps.json
+C:\Users\jlevi\OneDrive\Desktop\pg2-2212-JJLeViness-main\Week1\Lab1\PG2Input\bin\Debug\net6.0\PG2Input.dll
+C:\Users\jlevi\OneDrive\Desktop\pg2-2212-JJLeViness-main\Week1\Lab1\PG2Input\bin\Debug\net6.0\PG2Input.pdb
+C:\Users\jlevi\OneDrive\Desktop\pg2-2212-JJLeViness-main\Week1\Lab1\PG2Input\obj\Debug\net6.0\PG2Input.csproj.AssemblyReference.cache
+C:\Users\jlevi\OneDrive\Desktop\pg2-2212-JJLeViness-main\Week1\Lab1\PG2Input\obj\Debug\net6.0\PG2Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlevi\OneDrive\Desktop\pg2-2212-JJLeViness-main\Week1\Lab1\PG2Input\obj\Debug\net6.0\PG2Input.AssemblyInfoInputs.cache
+C:\Users\jlevi\OneDrive\Desktop\pg2-2212-JJLeViness-main\Week1\Lab1\PG2Input\obj\Debug\net6.0\PG2Input.AssemblyInfo.cs
+C:\Users\jlevi\OneDrive\Desktop\pg2-2212-JJLeViness-main\Week1\Lab1\PG2Input\obj\Debug\net6.0\PG2Input.csproj.CoreCompileInputs.cache
+C:\Users\jlevi\OneDrive\Desktop\pg2-2212-JJLeViness-main\Week1\Lab1\PG2Input\obj\Debug\net6.0\PG2Input.dll
+C:\Users\jlevi\OneDrive\Desktop\pg2-2212-JJLeViness-main\Week1\Lab1\PG2Input\obj\Debug\net6.0\refint\PG2Input.dll
+C:\Users\jlevi\OneDrive\Desktop\pg2-2212-JJLeViness-main\Week1\Lab1\PG2Input\obj\Debug\net6.0\PG2Input.pdb
+C:\Users\jlevi\OneDrive\Desktop\pg2-2212-JJLeViness-main\Week1\Lab1\PG2Input\obj\Debug\net6.0\ref\PG2Input.dll

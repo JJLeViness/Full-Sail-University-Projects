@@ -1,0 +1,5 @@
+﻿  Bit Manipulation.cpp
+C:\Users\jlevi\OneDrive\Desktop\SPR\Bit Manipulation\Bit Manipulation\Bit Manipulation.cpp(53,31): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jlevi\OneDrive\Desktop\SPR\Bit Manipulation\Bit Manipulation\Bit Manipulation.cpp(70,32): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\jlevi\OneDrive\Desktop\SPR\Bit Manipulation\Bit Manipulation\Bit Manipulation.cpp(84,31): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+  Bit Manipulation.vcxproj -> C:\Users\jlevi\OneDrive\Desktop\SPR\Bit Manipulation\x64\Debug\Bit Manipulation.exe
